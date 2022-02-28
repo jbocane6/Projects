@@ -1,0 +1,18 @@
+[
+    {
+        "id": 111,
+        "mail": "111@mail.com",
+        "password": "111",
+        "name": "Juan Bocanegra",
+        "gender": "Male",
+        "birthdate": "2022-02-27"
+    },
+    {
+        "id": 112,
+        "mail": "112@mail.com",
+        "password": "112",
+        "name": "Angely Ballesteros",
+        "gender": "Female",
+        "birthdate": "2022-02-27"
+    }
+]

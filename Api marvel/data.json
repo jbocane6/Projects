@@ -1,0 +1,82 @@
+[
+    {
+        "ID": 116,
+        "Title": "Acts of Vengeance!",
+        "Description": "Loki sets about convincing the super-villains of Earth to attack heroes other than those they normally fight in an attempt to destroy the Avengers to absolve his guilt over inadvertently creating the team in the first place.",
+        "Start": "1989-12-10 00:00:00",
+        "End": "2008-01-04 00:00:00",
+        "Creators": "Jeff Albrecht, Hilary Barta, Bret Blevins, Danilo Bulanadi, Mark Bagley, Mark Bright, Eliot Brown, Rich Buckler, John Byrne, Gary Barnum, Kurt Busiek, Virtual Calligr, Chris Claremont, Gerry Conway, Paul Becton, Steve Buccellato, Ken Bruzenak, Janice Chiang, Sal Buscema, John Calimee"
+    },
+    {
+        "ID": 227,
+        "Title": "Age of Apocalypse",
+        "Description": "In a twisted version of the world they knew, the X-Men battle against the eternal mutant Apocalypse as Bishop seeks to repair the timeline. Legion, Xavier's own son, attempts to kill off all of Xavier's enemies; however, when Legion attempts to murder Magneto, Xavier sacrifices his own life to save Magnus. As a result, Magneto casts off his anti-human sentiments and carries on Xavier's dream of peaceful co-existence, thereby founding the X-Men.",
+        "Start": "1995-03-01 00:00:00",
+        "End": "1996-06-01 00:00:00",
+        "Creators": "Comicraft, Pat Brosseau, Virtual Calligr, Derek, Mark Bernardo, Steve Buccellato, Digital Chameleon, Liquid! Color, Electric Crayon, Toinay, Terry Kevin Austin, Mark Buckingham, Kevin Conrad, Renato Arlem, Joe Bennett, Jerry Bingham, Ian Churchill, Chris Bachalo, Jim Calafiore, Kelly Corvese"
+    },
+    {
+        "ID": 314,
+        "Title": "Age of Ultron",
+        "Description": "In a 10-issue event written by Brian Michael Bendis with art by Bryan Hitch, Carlos Pacheco, Brandon Peterson and more, the heroes of the Marvel Universe have already fallen with the robot Ultron remaking the world in his image. The surviving Avengers, X-Men and others must fight through time and space in the hope of defeating their foe by any means necessary!",
+        "Start": "2013-03-06 00:00:00",
+        "End": "2013-06-19 00:00:00",
+        "Creators": "Kalman Andrasofszky, Marco Checchetto, Jim Cheung, Andre Lima Araujo, Leonard Kirk, Paco Medina, Brian Michael Bendis, Cullen Bunn, Gerry Duggan, Joshua Hale Fialkov, Christos Gage, Kathryn Immonen, Matt Kindt, Vc Clayton Cowles, David Curiel, Mike Deodato, Adi Granov, Bryan Hitch, Phil Jimenez, Adam Kubert"
+    },
+    {
+        "ID": 303,
+        "Title": "Age of X",
+        "Description": "In a strange reality where the X-Men never came to be, the war between humans and mutants has escalated to a level never before seen. What has become of our heroes and who will survive as the final war commences?",
+        "Start": "2011-01-26 00:00:00",
+        "End": "2011-05-01 00:00:00",
+        "Creators": "Dan Abnett, Mike Carey, Chuck Kim, Andy Lanning, Jim Mccann, Chris Bachalo, Simone Bianchi, Carlo Barberi, Vc Joe Caramagna, Chris Eliopoulos, Pat Davidson, Paul Davidson, Paco Diaz, Jay Leisten, Allen Martinez, Antonio Fabela, Leandro Fernandez, Steve Kurth, Clay Mann, Daniel Ketchum"
+    },
+    {
+        "ID": 329,
+        "Title": "All-New All-Different Marvel",
+        "Description": "This fall, prepare for an all-new, all-different Marvel Universe to begin!",
+        "Start": null,
+        "End": null,
+        "Creators": ""
+    },
+    {
+        "ID": 229,
+        "Title": "Annihilation",
+        "Description": "Parallel stories pitting the Silver Surfer, Nova, Ronan the Accuser and the Super-Skrull against Annihilus and his forces lead into a climatic six-issue war written by Keith Giffen with art by Andrea DiVito! Follow the machinations of Thanos, the power of Galactus and the early seeds that will create the Guardians of the Galaxy!",
+        "Start": "2007-06-20 00:00:00",
+        "End": "2008-06-01 00:00:00",
+        "Creators": "Renato Arlem, Jim Calafiore, Giuseppe Camuncoli, Scott Kolins, Jorge Pereira Lucas, Michael Mckone, Gregory Titus, Vc Joe Caramagna, Cory Petit, Vc Cory Petit, June Chung, Dave Mccaig, Christopher Sotomayor, Gabriele Dell'otto, Simon Furman, Christos Gage, Keith Giffen, Javier Grillo-Marxuach, Michael Hoskin, Stuart Moore"
+    },
+    {
+        "ID": 293,
+        "Title": "Annihilation: Conquest",
+        "Description": "The Phalanx have a new leader in the killer robot Ultron, and he's looking for nothing less than univesal conquest! They've already taken the Kree and assimilated heroes like Ronan and Drax; can a rag tag group including Star-Lord, Quasar, Wraith and the reborn Adam Warlock stop them?",
+        "Start": "2007-06-20 00:00:00",
+        "End": "2009-01-14 00:00:00",
+        "Creators": "Guru-eFX, Frank D'ARMATA, Nathan Fairbairn, Gina Going, Dan Abnett, Christos Gage, Keith Giffen, Javier Grillo-Marxuach, Bob Almond, Top Cow Rick Basaldua, Scott Hanna, Kyle Hotz, Wellington Alves, Eric Basaldua, Sean Chen, Brian Denham, Aleksi Briclot, Adi Granov, Vc Joe Caramagna, Vc Randy Gentile"
+    },
+    {
+        "ID": 231,
+        "Title": "Armor Wars",
+        "Description": "Tony Stark discovers that someone has been stealing his Iron Man tech and selling it to supervillains. He decides he must do whatever it takes to reacquire -- or destroy -- the stolen tech.",
+        "Start": "1987-12-10 00:00:00",
+        "End": "2010-03-17 00:00:00",
+        "Creators": "Mark Bright, Kieron Dwyer, Bob Layton, Mark Gruenwald, David Michelinie, Al Milgrom, Jack Morelli, Bill Oakley, Bob Sharen"
+    },
+    {
+        "ID": 233,
+        "Title": "Atlantis Attacks",
+        "Description": "Ghaur returns to complete his quest to resurrect the evil god Set, but his plan is opposed by Earth's heroes.",
+        "Start": "1989-01-01 00:00:00",
+        "End": "2011-02-16 00:00:00",
+        "Creators": "Various, Kieron Dwyer, Terry Kevin Austin, Hilary Barta, James Brock, Ernie Chan, Gavin Curtis, Mike Decarlo, Tony Dezuniga, Mark Bagley, Jon Bogdanove, Mark Bright, Rich Buckler, John Byrne, Gene Colan, Amanda Conner, Steve Buccellato, Janice Chiang, Gerry Conway, Tom Defalco"
+    },
+    {
+        "ID": 234,
+        "Title": "Avengers Disassembled",
+        "Description": "Writer Brian Michael Bendis kicks off his historic run with the Avengers by bringing the previous era to a close alongside artist David Finch! Chaos reigns when of Earth\u00e2\u20ac\u2122s Mightiest Heroes turns against their teammates, leading the Avengers into a battle that not all will survive! Featuring Iron Man, Captain America, Hawkeye, the Scarlet Witch and more!",
+        "Start": "2004-07-28 00:00:00",
+        "End": "2005-01-01 00:00:00",
+        "Creators": "Greg Adams, Tom Feister, Drew Geraci, Neal Adams, Joe Bennett, Steve Epting, Dave Johnson, Brian Michael Bendis, Chris Claremont, Karl Kesel, Tom Brevoort, Jim Cheung, David Finch, Frank D'ARMATA, Edgar Delgado, Transparency Digital, Scot George Eaton, Tony Harris, Chris Eliopoulos, Vc Randy Gentile"
+    }
+]
